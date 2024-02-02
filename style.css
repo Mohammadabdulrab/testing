@@ -1,3 +1,12 @@
 body{
-    
+    background-color: rgb(204, 24, 24);
+}
+li{
+    color: rgb(255, 255, 255);
+}
+.list{
+    color: rgb(17, 154, 17) !important;
+}
+.first-list {
+    color: rgb(203, 203, 64) ;
 }
